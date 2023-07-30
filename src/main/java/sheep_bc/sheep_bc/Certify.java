@@ -29,7 +29,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public final class Certify extends JavaPlugin implements Listener,CommandExecutor {
+public final class Certify extends  JavaPlugin implements Listener,CommandExecutor {
 
     public Server server;
     static JDA jda;
