@@ -1,0 +1,8 @@
+name: Certify
+version: '${project.version}'
+main: sheep_bc.sheep_bc.Certify
+api-version: 1.19
+commands:
+  인증:
+  인증취소:
+
